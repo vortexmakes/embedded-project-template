@@ -1,0 +1,6 @@
+# Add submodules in third-party directory
+#
+# EXAMPLE:
+# [submodule "third-party/rkh"]
+#	path = third-party/rkh
+#	url = https://github.com/vortexmakes/RKH.git
