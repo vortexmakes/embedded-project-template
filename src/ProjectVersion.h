@@ -6,7 +6,7 @@
 /* -------------------------- Development history -------------------------- */
 /* -------------------------------- Authors -------------------------------- */
 /*
- *  LeFr  Leandro Francucci  lf@vortexmakes.com
+ *  LeFr  Leandro Francucci lf@vortexmakes.com
  */
 
 /* --------------------------------- Notes --------------------------------- */

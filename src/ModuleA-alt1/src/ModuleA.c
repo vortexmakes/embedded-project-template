@@ -1,18 +1,16 @@
 /**
- *  \file       test_ModuleA.c
- *  \brief      Unit test for ModuleA ...
+ *  \file       ModuleA.c
+ *  \brief      ...
  */
 
 /* -------------------------- Development history -------------------------- */
 /* -------------------------------- Authors -------------------------------- */
 /*
- *  LeFr  Leandro Francucci  lf@vortexmakes.com
+ *  LeFr  Leandro Francucci lf@vortexmakes.com
  */
 
 /* --------------------------------- Notes --------------------------------- */
 /* ----------------------------- Include files ----------------------------- */
-#include "unity.h"
-
 /* ----------------------------- Local macros ------------------------------ */
 /* ------------------------------- Constants ------------------------------- */
 /* ---------------------------- Local data types --------------------------- */
@@ -21,20 +19,4 @@
 /* ----------------------- Local function prototypes ----------------------- */
 /* ---------------------------- Local functions ---------------------------- */
 /* ---------------------------- Global functions --------------------------- */
-void
-setUp(void)
-{
-}
-
-void
-tearDown(void)
-{
-}
-
-void
-test_ToCheckTDDEnvironment(void)
-{
-    TEST_IGNORE_MESSAGE("TDD environment works");
-}
-
 /* ------------------------------ End of file ------------------------------ */
